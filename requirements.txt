@@ -1,0 +1,11 @@
+numpy
+pandas
+poliastro
+scipy
+tqdm
+astropy
+matplotlib
+ipykernel
+ipython
+jupyter
+notebook
