@@ -9,3 +9,4 @@ ipykernel
 ipython
 jupyter
 notebook
+torch
